@@ -1,3 +1,26 @@
+## message_tf_frame_transformer (iron) - 1.1.0-1
+
+The packages in the `message_tf_frame_transformer` repository were released into the `iron` distro by running `/usr/local/bin/bloom-release --rosdistro iron --track iron message_tf_frame_transformer --edit --override-release-repository-url https://github.com/ika-rwth-aachen/message_tf_frame_transformer-release.git --override-release-repository-push-url git@github.com:ika-rwth-aachen/message_tf_frame_transformer-release.git` on `Sat, 10 Jun 2023 16:16:04 -0000`
+
+The `message_tf_frame_transformer` package was released.
+
+Version of package(s) in repository `message_tf_frame_transformer`:
+
+- upstream repository: https://github.com/ika-rwth-aachen/message_tf_frame_transformer.git
+- release repository: https://github.com/ros2-gbp/message_tf_frame_transformer-release.git
+- rosdistro version: `1.0.0-3`
+- old version: `null`
+- new version: `1.1.0-1`
+
+Versions of tools used:
+
+- bloom version: `0.11.2`
+- catkin_pkg version: `0.5.2`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## message_tf_frame_transformer (rolling) - 1.1.0-1
 
 The packages in the `message_tf_frame_transformer` repository were released into the `rolling` distro by running `/usr/local/bin/bloom-release --rosdistro rolling --track rolling message_tf_frame_transformer` on `Sat, 10 Jun 2023 16:05:16 -0000`
