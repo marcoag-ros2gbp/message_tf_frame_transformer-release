@@ -1,3 +1,4 @@
+release_repo_url: git@github.com:ika-rwth-aachen/message_tf_frame_transformer-release.git
 tracks:
   humble:
     actions:
